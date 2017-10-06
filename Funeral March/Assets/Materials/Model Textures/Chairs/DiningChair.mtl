@@ -1,0 +1,28 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SeatBack.png
+Ni 1.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Red_velvet_pxr128.tif
+bump Red_velvet_pxr128_normal.tif -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Red_velvet_pxr128_bmp.tif
+Ns 62.94
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brazilian_rosewood_pxr128.tif
+bump Brazilian_rosewood_pxr128_normal.tif -bm 1
+Ni 1.00
+Ks 0.15 0.15 0.15
+Ns 23.11

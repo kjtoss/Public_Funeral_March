@@ -1,0 +1,136 @@
+newmtl bakedWall_surfaceShader1SG_WallPiece1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Street_asphalt_pxr128.tif
+bump Street_asphalt_pxr128_normal.tif -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 75.69
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood-texture0028.jpg
+Ni 1.00
+Ks 0.06 0.06 0.06
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tile_floor_variant_diffuse.jpg
+bump tile_floor_bump.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks tile_floor_spec.jpg
+Ns 18.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wool_carpet_pxr128.tif
+bump Wool_carpet_pxr128_normal.tif -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marble_tile_diffuse.tif
+bump marble_tile_bump.tif -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks marble_tile_spec.tif
+Ns 18.00
+newmtl phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tile_floor_diffuse.jpg
+bump tile_floor_bump.jpg -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks tile_floor_spec.jpg
+Ns 18.00
+newmtl phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DoorwayDiffuse.tif
+bump DoorwayNormals.tif -bm 1
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 18.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WhiteWallDiffuseAO.tif
+bump WhiteWallNormals.tif -bm 1
+Ni 1.00
+Ks 0.31 0.31 0.31
+Ns 18.00
+newmtl phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BlueWallDiffuseAO.tif
+bump WhiteWallNormals.tif -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DiningRoomWallDiffuseAO.tif
+bump WhiteWallNormals.tif -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd American_cherry_pxr128.tif
+bump American_cherry_pxr128_normal.tif -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WallDiffuse.tif
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BlueWallDiffuse.tif
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 8b18b9a5a4efef24c9f3b03cef5cb05f
+timeCreated: 1501118495
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base
+    100002: //RootNode
+    100004: LightCover_LightFixture1
+    100006: LightCover_LightFixture2
+    100008: LightCover_LightFixture3
+    100010: LightFixture1_LightBulb
+    100012: LightFixture1_LightFixture
+    100014: LightFixture2_LightBulb
+    100016: LightFixture2_LightFixture
+    100018: LightFixture3_LightBulb
+    100020: LightFixture3_LightFixture
+    100022: LightFixtureLarge
+    100024: RotatingPart_Fan1_fanConnect
+    100026: RotatingPart_Fan2_fanConnect
+    100028: RotatingPart_Fan3_fanConnect
+    100030: RotatingPart_Fan_fanConnect
+    100032: RotatingPart_fanBlade_Fan
+    100034: RotatingPart_fanBlade_Fan1
+    100036: RotatingPart_fanBlade_Fan2
+    100038: RotatingPart_fanBlade_Fan3
+    100040: Rotator_RotatingPart
+    400000: Base
+    400002: //RootNode
+    400004: LightCover_LightFixture1
+    400006: LightCover_LightFixture2
+    400008: LightCover_LightFixture3
+    400010: LightFixture1_LightBulb
+    400012: LightFixture1_LightFixture
+    400014: LightFixture2_LightBulb
+    400016: LightFixture2_LightFixture
+    400018: LightFixture3_LightBulb
+    400020: LightFixture3_LightFixture
+    400022: LightFixtureLarge
+    400024: RotatingPart_Fan1_fanConnect
+    400026: RotatingPart_Fan2_fanConnect
+    400028: RotatingPart_Fan3_fanConnect
+    400030: RotatingPart_Fan_fanConnect
+    400032: RotatingPart_fanBlade_Fan
+    400034: RotatingPart_fanBlade_Fan1
+    400036: RotatingPart_fanBlade_Fan2
+    400038: RotatingPart_fanBlade_Fan3
+    400040: Rotator_RotatingPart
+    2300000: Base
+    2300002: LightCover_LightFixture1
+    2300004: LightCover_LightFixture2
+    2300006: LightCover_LightFixture3
+    2300008: LightFixture1_LightBulb
+    2300010: LightFixture1_LightFixture
+    2300012: LightFixture2_LightBulb
+    2300014: LightFixture2_LightFixture
+    2300016: LightFixture3_LightBulb
+    2300018: LightFixture3_LightFixture
+    2300020: LightFixtureLarge
+    2300022: RotatingPart_Fan1_fanConnect
+    2300024: RotatingPart_Fan2_fanConnect
+    2300026: RotatingPart_Fan3_fanConnect
+    2300028: RotatingPart_Fan_fanConnect
+    2300030: RotatingPart_fanBlade_Fan
+    2300032: RotatingPart_fanBlade_Fan1
+    2300034: RotatingPart_fanBlade_Fan2
+    2300036: RotatingPart_fanBlade_Fan3
+    2300038: Rotator_RotatingPart
+    3300000: Base
+    3300002: LightCover_LightFixture1
+    3300004: LightCover_LightFixture2
+    3300006: LightCover_LightFixture3
+    3300008: LightFixture1_LightBulb
+    3300010: LightFixture1_LightFixture
+    3300012: LightFixture2_LightBulb
+    3300014: LightFixture2_LightFixture
+    3300016: LightFixture3_LightBulb
+    3300018: LightFixture3_LightFixture
+    3300020: LightFixtureLarge
+    3300022: RotatingPart_Fan1_fanConnect
+    3300024: RotatingPart_Fan2_fanConnect
+    3300026: RotatingPart_Fan3_fanConnect
+    3300028: RotatingPart_Fan_fanConnect
+    3300030: RotatingPart_fanBlade_Fan
+    3300032: RotatingPart_fanBlade_Fan1
+    3300034: RotatingPart_fanBlade_Fan2
+    3300036: RotatingPart_fanBlade_Fan3
+    3300038: Rotator_RotatingPart
+    4300000: Base
+    4300002: LightCover_LightFixture1
+    4300004: LightCover_LightFixture2
+    4300006: LightCover_LightFixture3
+    4300008: LightFixture1_LightBulb
+    4300010: LightFixture1_LightFixture
+    4300012: LightFixture2_LightBulb
+    4300014: LightFixture2_LightFixture
+    4300016: LightFixture3_LightBulb
+    4300018: LightFixture3_LightFixture
+    4300020: LightFixtureLarge
+    4300022: RotatingPart_Fan1_fanConnect
+    4300024: RotatingPart_Fan2_fanConnect
+    4300026: RotatingPart_Fan3_fanConnect
+    4300028: RotatingPart_Fan_fanConnect
+    4300030: RotatingPart_fanBlade_Fan
+    4300032: RotatingPart_fanBlade_Fan1
+    4300034: RotatingPart_fanBlade_Fan2
+    4300036: RotatingPart_fanBlade_Fan3
+    4300038: Rotator_RotatingPart
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
